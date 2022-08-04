@@ -17,8 +17,8 @@ I enjoyed created something that was already been made before and seeing how I c
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/carlos-req/orderysummarycomponent.github.io)
-- Live Site URL: [Live](https://carlos-req.github.io/orderysummarycomponent.github.io/)
+- Solution URL: [Solution](https://github.com/carlos-req/Moment-Extension-Clone)
+- Live Site URL: [Live](https://carlos-req.github.io/Moment-Extension-Clone/)
 
 ## My process
 
