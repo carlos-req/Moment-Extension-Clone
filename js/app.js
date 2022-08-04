@@ -36,15 +36,15 @@ function setBgGreet(){
     hour = today.getHours();
 
   if(hour<12){
-    document.body.style.backgroundImage ="url('../img/Morning.jpg')";
+    document.body.style.backgroundImage ="url('img/Morning.jpg')";
     greeting.textContent = 'Good Morning';
 
   }else if (hour <18) {
-    document.body.style.backgroundImage ="url('../img/Afternoon.jpg')";
+    document.body.style.backgroundImage ="url('img/Afternoon.jpg')";
     greeting.textContent = 'Good Afternoon';
 
   } else {
-    document.body.style.backgroundImage ="url('../img/Night.jpg')";
+    document.body.style.backgroundImage ="url('img/Night.jpg')";
     document.body.style.backgroundSize ="cover";
     greeting.textContent = 'Good Evening';
     document.body.style.color = 'white';
